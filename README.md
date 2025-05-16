@@ -1,5 +1,5 @@
 #  Projeto :rocket:
-Aplicativo desenvolvido para cadastro de novas habilidades
+Aplicativo para cadastro de novas habilidades (Android e IOS)
 
 ## Tecnologias e Ferramentas utilizadas :robot:
 - React-Native Cli
