@@ -1,5 +1,5 @@
 #  Projeto :rocket:
-Aplicativo desenvolvido durante o Ignite da Rocketseat para cadastro de novas skills
+Aplicativo desenvolvido para cadastro de novas habilidades
 
 ## Tecnologias e Ferramentas utilizadas :robot:
 - React-Native Cli
